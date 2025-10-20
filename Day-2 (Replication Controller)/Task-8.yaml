@@ -1,0 +1,3 @@
+# Scale the Deployment to 5 replicas.
+
+kubectl scale deployment nginx --replicas=5

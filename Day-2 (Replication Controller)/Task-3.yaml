@@ -1,0 +1,2 @@
+# Update the replicas to 6 from the command line
+kubectl scale replicaset nginx-replicaset --replicas=6

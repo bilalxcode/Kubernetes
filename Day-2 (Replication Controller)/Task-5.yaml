@@ -1,0 +1,4 @@
+# List the Deployment and ensure the correct number of replicas is running.
+
+kubectl get deployments
+kubectl get pods -l app=v1
