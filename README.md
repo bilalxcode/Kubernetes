@@ -17,5 +17,6 @@ The repository is organized into directories, each representing a day of learnin
 To begin, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/kubernetes.git
+git clone https://github.com/bilalxcode/Kubernetes.git
 cd kubernetes
+
